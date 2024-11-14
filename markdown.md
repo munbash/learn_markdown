@@ -14,7 +14,7 @@ do you derive pleasure in __programming__
 
 >### Nursing Anthem
 >
->- Nurses are #great#
->- Nurses are #caring#
+>- Nurses are ###great###
+>- Nurses are ###caring###
 >- An epitome of _humility_ and _service_
 
