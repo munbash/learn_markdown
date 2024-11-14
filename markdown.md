@@ -12,3 +12,11 @@ do you derive pleasure in __programming__
 >>ill patient does not necessarily implies health issues
 >> it might be patient who is not in right state
 
+>### Nursing Anthem
+>
+>N
+-
+>- Nurses are *great*
+>- Nurses are *caring*
+> An epitome of _humility_ and _service_
+
