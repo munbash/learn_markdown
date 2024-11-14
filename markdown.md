@@ -18,3 +18,13 @@ do you derive pleasure in __programming__
 >- Nurses are **caring**
 >- An epitome of _humility_ and _service_
 
+>### ARKAANUL IIMAN
+>
+1. Belief in Allah
+2. Belief in the Angels
+3. Belief in the books
+    4. Belief in the Prophets
+    5. Belief in judgement day
+6. Belief in qadar
+
+
